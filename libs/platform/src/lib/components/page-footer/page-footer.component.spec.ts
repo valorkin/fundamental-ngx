@@ -33,7 +33,7 @@ class PlatformFooterTestComponent {
     footerElementRef: ElementRef;
 }
 
-fdescribe('FooterComponent', () => {
+describe('FooterComponent', () => {
     let component: PlatformFooterTestComponent;
     let fixture: ComponentFixture<PlatformFooterTestComponent>;
     let footerEleRef: ElementRef;
